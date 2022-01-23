@@ -1,2 +1,2 @@
-# Nephael-C-Practice
+# Haruster-C-Practice
 C Programming Practice
